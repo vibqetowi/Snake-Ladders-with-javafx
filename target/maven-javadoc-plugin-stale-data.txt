@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+--class-path
+'/Users/void/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar:/Users/void/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar:/Users/void/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar:/Users/void/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar'
+--module-path
+'/Users/void/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-mac.jar:/Users/void/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-mac.jar:/Users/void/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-mac.jar:/Users/void/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-mac.jar:/Users/void/NetBeansProjects/mavenproject1/target/classes'
+--patch-module
+SnakeAndLadder='/Users/void/NetBeansProjects/mavenproject1/src/main/java'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'249_a1_snek 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/void/NetBeansProjects/mavenproject1/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'249_a1_snek 1.0-SNAPSHOT API'
+harmony.mavenproject1
+'/Users/void/NetBeansProjects/mavenproject1/src/main/java/module-info.java'
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/tag-search-index.js = 1644968975566
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/overview-tree.html = 1644968975547
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/module-search-index.js = 1644968975564
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/index.html = 1644968975591
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/package-search-index.js = 1644968975565
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/jquery-ui.overrides.css = 1644968975614
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/index-all.html = 1644968975589
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/allpackages-index.html = 1644968975563
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/member-search-index.js = 1644968975566
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/script.js = 1644968975599
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/stylesheet.css = 1644968975598
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/help-doc.html = 1644968975596
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/element-list = 1644968975487
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/allclasses-index.html = 1644968975560
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/type-search-index.js = 1644968975565
+/Users/void/NetBeansProjects/mavenproject1/target/site/apidocs/search.js = 1644968975601
