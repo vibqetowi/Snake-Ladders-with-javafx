@@ -5,9 +5,11 @@ to remake the project with real graphics and game buttons. Other than having to 
 players in console, this feels more like a game someone other than a programmer would play.
 The typical game start message looks like so:
 
+
 =================================================
-            Welcome to Snake and Ladder!
+           Welcome to Snake and Ladder!
 =================================================
+
 
 -> First, enter number of players:
 2
