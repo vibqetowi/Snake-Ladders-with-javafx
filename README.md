@@ -6,9 +6,9 @@ players in console, this feels more like a game someone other than a programmer 
 The typical game start message looks like so:
 
 
-=================================================
+-------------------------------------------------
            Welcome to Snake and Ladder!
-=================================================
+-------------------------------------------------
 
 
 -> First, enter number of players:
