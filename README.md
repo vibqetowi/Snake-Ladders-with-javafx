@@ -3,7 +3,7 @@ This was an assignment from a java course, we were tasked to make a snake and la
 console using keyboard inputs. After making that, I found the gameplay experience terrible so I decided
 to remake the project with real graphics and game buttons. Other than having to instantiate the amount of 
 players in console, this feels more like a game someone other than a programmer would play.
-The typical game start message looks like so:
+A typical game start message looks like so:
 
 
 -------------------------------------------------
@@ -11,8 +11,8 @@ The typical game start message looks like so:
 -------------------------------------------------
 
 
--> First, enter number of players:
-2
+-> First, enter number of players: 2
+
 -> 2 players will be created shortly
 The playing turn will be randomized on game start
 
