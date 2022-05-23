@@ -7,6 +7,7 @@ A typical game start message looks like so:
 
 
 -------------------------------------------------
+
            Welcome to Snake and Ladder!
 
 -> First, enter number of players: 2
@@ -14,6 +15,8 @@ A typical game start message looks like so:
 -> 2 players will be created shortly
 
 The playing turn will be randomized on game start
+
 -------------------------------------------------
+
 
 Once the game board renders, a wall of text will be printed to console, it might appear in random places, most commonly, it is behind the IDE.
