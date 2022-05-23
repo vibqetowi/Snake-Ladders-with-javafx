@@ -112,18 +112,11 @@ pl_d = new Circle(22);
 pl_d.setFill(Color.BLACK);
 
 /**
- * Here is the requirement of making the playing order random. How I understood  the  intended process was
- * 1) for each player (for  loop) generate a random int 1 to 6 in, we put in an array while redoing
- * the throw if any duplicates are present until no duplicates are present
- * 2) the players are then put into an order array using the random throws
- * 3) then we iterate through the array to determine whose turn it is
- * 
- * I then realised that was really complicated so instead my approach is
+*A requirement of the assignment was making playing turns random, here is the logic
  * 1) set each player to a numerical value: A=1, B=2...
  * 2) shuffle randomly the values
  * 3) then we iterate through the array to determine whose turn it is
  * 
- * It's literally the same effect and saves lines of codes which i already have too much of
  */
  int[] order=new int[numofplayers];
    
@@ -674,8 +667,8 @@ if (pld_turn == false)
      *asks how many players to create, fairly straightforward
      * I used a while loop to check for invalid entries
      * 
-     * Since we barely started exception handling I will assume
-     * that the users are perfect and only enter ints.
+     * When this was written we barely started exception handling
+     * so users are assumed perfect
      */
 public void setNumplayers(){
 Scanner kb1 = new Scanner(System.in);
@@ -706,8 +699,7 @@ roll = (int)(Math.random()*6+1);
 /**
  * This method uses the index to dertermine the pixel coordinates to set the
  * graphical circles to. There's probably a way to logically determine some index 
- * goes to which coordinates. For now though, I only figured out how to list all
- * cases. I'm ashamed at the inelegance 
+ * goes to which coordinates. I just didnt do it in this instance
  * 
  * @param index 
  * this parameter is of course the in game position of the player
