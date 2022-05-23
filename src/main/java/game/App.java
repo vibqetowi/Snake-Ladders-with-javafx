@@ -696,6 +696,7 @@ if (attempts>4){
 attempts++;}
 System.out.println("-> "+numofplayers+" players will be created shortly");
 System.out.println("The playing turn will be randomized on game start");
+kb1.close();
 }
 
 //flipDice method
